@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div{
+	border-bottom: 1px solid white;
+	height: 140px;
+}
+h2{
+	color: white;
+	padding: 10px 25px;
+	margin: 0px;
+	background-color: #808080;
+}
+h3{
+	float: left;
+	background-color: #848484;
+	height: 140px;
+	width: 140px;
+	margin: 0 20px 0 0;
+	text-align: center;
+	line-height: 140px;
+	border-bottom: 1px solid white;
+}
+span{
+	float: left;
+	margin-top: 20px;
+	padding-right: 50px;
+}
+p{
+	display: inline-block;
+}
